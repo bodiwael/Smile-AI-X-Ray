@@ -4,3 +4,5 @@ pillow
 opencv-python
 numpy
 roboflow
+waitress
+flask
